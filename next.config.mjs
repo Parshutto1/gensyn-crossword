@@ -9,6 +9,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export',
+  trailingSlash: true,
+  basePath: '/gensyn-crossword',
 }
 
 export default nextConfig
