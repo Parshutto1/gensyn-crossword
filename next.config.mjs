@@ -12,6 +12,7 @@ const nextConfig = {
   output: 'export',
   trailingSlash: true,
   basePath: '/gensyn-crossword',
+  assetPrefix: '/gensyn-crossword',
 }
 
 export default nextConfig
